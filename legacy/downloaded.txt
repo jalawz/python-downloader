@@ -1,0 +1,11 @@
+https://teamtreehouse.com/library/introducing-lists
+https://teamtreehouse.com/library/introducing-tuples
+https://teamtreehouse.com/tracks/beginning-python
+https://teamtreehouse.com/library/functions-packing-and-unpacking
+https://teamtreehouse.com/library/python-sequences
+https://teamtreehouse.com/library/dates-and-times-in-python
+https://teamtreehouse.com/library/understanding-dunder-main-main
+https://teamtreehouse.com/library/python-basics-3
+https://teamtreehouse.com/library/objectoriented-python-2
+https://teamtreehouse.com/library/write-better-python
+https://teamtreehouse.com/library/introducing-dictionaries

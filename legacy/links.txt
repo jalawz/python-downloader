@@ -1,0 +1,5 @@
+https://teamtreehouse.com/library/welcome-to-intermediate-python
+https://teamtreehouse.com/library/regular-expressions-in-python
+https://teamtreehouse.com/library/python-file-io
+https://teamtreehouse.com/library/csv-and-json-in-python
+https://teamtreehouse.com/library/using-databases-in-python
